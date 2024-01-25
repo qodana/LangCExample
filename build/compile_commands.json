@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/data/project/build",
+  "command": "/usr/lib/llvm-16/bin/clang++    -o CMakeFiles/LangCExample.dir/main.cpp.o -c /data/project/main.cpp",
+  "file": "/data/project/main.cpp"
+}
+]
